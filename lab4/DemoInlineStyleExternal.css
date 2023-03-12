@@ -1,0 +1,14 @@
+
+    body {
+        background-color: silver;
+    }
+
+    p {
+        background-color: orange;
+    }
+
+    h1 {
+        background-color: yellow;color:red;
+    }
+    #aqua{background-color: aqua;}
+    .lightgreen{background-color: lightgreen;}
