@@ -1,0 +1,43 @@
+<html>
+   <title>Ottawa Tester</title>
+   <body>
+    <h3><strong>Country:</strong></h3>
+    <h3 style="font-family:Garamond, serif;">CANADA</h3>
+    <h3><strong>Capital:</strong></h3>
+    <h3 id="ottawa" style="font-family:Garamond, serif;">OTTAWA</h3style></h3>
+    <button onclick="disappear()">Hide capital name </button>
+    <button onclick="appear()">Show capital name</button>
+    <button onclick="toggle()">Toggle</button>
+    <h3 id="hovering">Hover on this paragraph for Yellow</h3>
+    <h3 id="clicking" onclick="allgreen()">Click me to change my text color.</p>
+    
+
+    <script>
+        var capital = document.getElementById("ottawa")
+        var yellow = document.getElementById("hovering");
+        var green = document.getElementById("clicking");
+
+        function toggle(){
+            if (capital.style.display === "none"){
+                capital.style.display = "block";
+            } else{
+                capital.style.display = "none";
+            }
+            }
+        function appear(){
+            capital.style.display = "block";
+        }
+        function disappear(){
+            capital.style.display = "none";
+        }
+       yellow.addEventListener('mouseover', function over(){
+        yellow.style.backgroundColor = 'yellow';
+    });
+    function allgreen() {
+    green.style.backgroundColor = 'green';
+}
+
+    </script>
+    <body> 
+
+<html>

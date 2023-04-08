@@ -1,0 +1,32 @@
+<html>
+<head>
+    <title>Calculation Demonstration</title>
+</head>
+<body>
+<h1>This example demonstrates doing a Calculation</h1>
+Room Rental: <input type="text" id="room" oninput="adding()"></input><br>
+Food: <input type="text" id="eat" oninput="adding()"></input><br>
+Entertainment: <input type="text" id="entertain" oninput="adding()"></input><br>
+Total: <input type="text" id="overall"></input><br>
+With tax: <input type="text" id="percent"></input>
+</body>
+
+
+<script>
+var input1 = document.getElementById("room");
+var input2 = document.getElementById("eat");
+var input3 = document.getElementById("entertain");
+
+function adding(){
+var num1 = parseFloat(input1.value);
+var num2 = parseFloat(input2.value);
+var num3 = parseFloat(input3.value);
+var totalnum = num1 + num2 + num3;
+var totaltax = totalnum + (totalnum * 0.13);
+document.getElementById("overall").value = totalnum;
+document.getElementById("percent").value = totaltax;
+}
+
+</script>
+
+</html>
