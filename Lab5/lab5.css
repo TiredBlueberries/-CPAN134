@@ -1,0 +1,19 @@
+#image{float: left; padding-right: 12px; width: 280;}
+header{color:orange;text-shadow: 1px 2px 1px black; font-size: large; font-weight: bold;}
+#goblin{font-size: bold; color: black; font-size: 55%;; font-weight: bold;
+     text-shadow:none;}
+body{float: left; border-left:solid lightgray;border-left-width: 5px;}
+#starter{font-size: 150%; font-weight: 1000; font: bold;}
+.w{ font-size: 400%;}
+#product{font-size: 120%; font-weight: bold;}
+a:link{color: orange;}
+a:visited{color: black;}
+a:hover{color: green;}
+#guarantee{font-weight:bold; font-size: 120%;}
+#questions{font-weight: bold;}
+
+
+
+
+
+

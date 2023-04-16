@@ -1,0 +1,15 @@
+footer{background-color:darkblue; color: gold;}
+#greet{font-size: 50px; font-style: initial;  color: rgb(0, 0, 0); outline: black; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+#intro{font-family:Georgia, 'Times New Roman', Times, serif; text-decoration: solid;}
+#welcome{background-color: white; font-family: 'Brush Script MT', cursive; border: 12px; border-style: double;}
+#wood{text-align: center; margin-left: auto; margin-right: auto; display: block; border: 10px; border-style: groove;}
+#about{background-color: white; font-family:'Courier New', Courier, monospace, cursive; border: 12px; border-style: double;}
+#Myself{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+#Canada{width: 450px;  height: auto; display: block; border-style:inset; border-color: black;}
+#Viet{width: 450px;  height: auto;display: block;   margin-left: auto;  margin-right: auto; border-color: black; border-style:inset;}
+#Fish{width: 450px;  height: auto;display: block;  border-color: black; border-style:inset; float: right; bottom: 540px; position: relative;}
+#wish{background-color: rgb(203, 200, 200); text-decoration: double;}
+#ad{position: relative; float: right; width: 400px;  height: auto; bottom: 100px; display: block;}
+#resume{width: 650px;  height: auto;display: block;   margin-left: auto;  margin-right: auto; border-color: black; border-style:inset;}
+    
+    
