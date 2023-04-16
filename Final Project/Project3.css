@@ -1,0 +1,21 @@
+footer{background-color:darkblue; color: gold; position: fixed; bottom: 0; text-align: center; width: 100%;}
+#greet{font-size: 50px; font-style: initial;  color: rgb(0, 0, 0); outline: black; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+#intro{font-family:Georgia, 'Times New Roman', Times, serif; text-decoration: solid;}
+#welcome{background-color: white; font-family: 'Brush Script MT', cursive; border: 12px; border-style: double;}
+#wood{text-align: center; margin-left: auto; margin-right: auto; display: block; border: 10px; border-style: groove;}
+#about{background-color: white; font-family:'Courier New', Courier, monospace, cursive; border: 12px; border-style: double;}
+#Myself{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+#Canada{width: 450px;  height: auto; display: block; border-style:inset; border-color: black;}
+#Viet{width: 450px;  height: auto;display: block;   margin-left: auto;  margin-right: auto; border-color: black; border-style:inset;}
+#Fish{width: 450px;  height: auto;display: block;  border-color: black; border-style:inset; float: right; bottom: 550px; position: relative;}
+#wish{background-color: rgb(203, 200, 200); text-decoration: double;}
+#ad{position: relative; float: right; width: 400px;  height: auto; bottom: 100px; display: block;}
+#resume{width: 650px;  height: auto;display: block;   margin-left: auto;  margin-right: auto; border-color: black; border-style:inset;}
+#bodyA{ background: rgb(202, 202, 222) }
+#bodyB{ background: rgb(202, 202, 222) }
+#bodyC{ background: rgb(202, 202, 222) }
+#bodyD{ background: rgb(202, 202, 222) }
+#firstH{border:rgb(16, 13, 9); border-width: 6px; border-style: inset;background-color: rgb(201, 193, 201)}
+#secondH{border:rgb(41, 40, 39); border-width: 6px; border-style:ridge;background-color:  rgb(201, 193, 201); color: rgb(0, 0, 0)}
+#humberyoutube{color: rgb(106, 113, 243)}
+
